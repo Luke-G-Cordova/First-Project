@@ -1,4 +1,5 @@
 # First-Project
+<pre>
 group project experiment
 
 
@@ -28,5 +29,6 @@ WHAT DO WE NEED TO INCLUDE:
         Rounding
         Divide by 0
         Basic Logic Erorrs
+</pre>
 
 
